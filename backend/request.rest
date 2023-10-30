@@ -1,0 +1,5 @@
+// a Post requst is done to the specifed URL:
+POST http://localhost:3001/authenticate
+Content-Type: application/json
+// The data in JSON format. 
+{ "username": "Elizma" }
